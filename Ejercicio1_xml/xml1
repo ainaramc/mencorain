@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Libreria>
+    <Libro Categoria="Romance" Idioma="Español" TipoDeLibro="Bolsillo">
+        <Titulo> Un cuento perfecto </Titulo>
+        <Autor> Elisabeth Benavet </Autor>
+        <AñoDePublicacion> 2021 </AñoDePublicacion>
+        <Precio> 11.35 </Precio>
+    </Libro>
+    <Libro Categoria="Emotiva" Idioma="Español" TipoDeLibro="Emocional">
+        <Titulo> Invisible </Titulo>
+        <Autor> Eloy Moreno </Autor>
+        <AñoDePublicacion> 2018 </AñoDePublicacion>
+        <Precio> 15.15 </Precio>
+    </Libro>
+    <Libro Categoria="Fantasia" Idioma="Frances" TipoDeLibro="Novela Epistolar">
+        <Titulo> Dracula </Titulo>
+        <Autor> Bram Stoker </Autor>
+        <AñoDePublicacion> 2018 </AñoDePublicacion>
+        <Precio> 15.15 </Precio>
+    </Libro>
+</Libreria>

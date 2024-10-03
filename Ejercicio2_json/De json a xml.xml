@@ -1,0 +1,15 @@
+<organizacion>
+    <departamento> 8</departamento>
+    <nombredepto>Ventas</nombredepto>
+    <director>Juan Rodríguez</director>
+         <empleados>
+            <empleado>
+            <nombre>Pedro</nombre>
+            <apellidos>Fernández</apellidos>
+        </empleado>
+         <empleado>
+            <Nombre>Jacinto</Nombre>
+            <apellidos>Benavente</apellidos>
+        </empleado>
+        </empleados>
+</organizacion>

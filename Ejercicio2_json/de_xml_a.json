@@ -1,0 +1,38 @@
+{
+ "Productos":
+    [
+        {
+            "Producto": "Camiseta",
+            "Precio" : 19.99,
+            "Disponible": true,
+            
+            
+                "Detalles":
+                {
+                 "Color": "Rojo" ,
+                 "Talla" : "M"
+                }
+                    
+              
+        },{
+
+                "Producto": "Pantalón",
+                "Precio" : 29.99,
+                 "Disponible": false,
+                 
+                    "Detalles":
+                {
+                 "Color": "Rojo" ,
+                 "Talla" : "M"
+                }
+                
+                
+                
+        }
+
+        
+            
+        
+
+    ]
+}

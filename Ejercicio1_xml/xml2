@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UFT-8"?>
+<Compras>
+    <CompraSeptiembre Categoria="Alimentación">
+        <Tienda> Carrefour </Tienda>
+        <FechaDeCompra> 18-09 </FechaDeCompra>
+        <Precio> 60.80 </Precio>
+    </CompraSeptiembre>
+
+    <CompraSeptiembre Categoria="Ropa">
+        <Tienda> Zara </Tienda>
+        <FechaDeCompra> 10-09 </FechaDeCompra>
+        <Precio> 40.99 </Precio>
+    </CompraSeptiembre>
+
+    <CompraSeptiembre Categoria="Informatica">
+        <Tienda> Mediamarkt </Tienda>
+        <FechaDeCompra> 30-09 </FechaDeCompra>
+        <Precio> 200 </Precio>
+    </CompraSeptiembre>
+</Compras>
