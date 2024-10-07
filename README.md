@@ -23,6 +23,9 @@ Este grupo, ya había lanzado un disco en 1997, pero en los 2000, sacaron a la v
 ahora, es decir, los convirtió en uno de los grupos más famosos de rock del mundo.
 Este disco se llama *hybrid theory*, y cuenta con éxitos como *In the End*.
 
+![foto artistas más escuchados](https://github.com/ainaramc/mencorain/blob/main/Captura%20de%20pantalla%202024-10-07%20134719.png)
+
+
 ## La música en la actualidad:
 Hoy en estamos viviendo los años de máximo éxito de los sonidos urbanos y del reguetón y el foco ya no está tan centrado en Estados Unidos si no en zonas
 como latinoamérica.
