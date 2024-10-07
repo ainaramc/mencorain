@@ -44,6 +44,9 @@ como latinoamérica.
 
 ![foto artista más escuchada](https://github.com/ainaramc/mencorain/blob/main/PSX_20240109_214249.jpg)
 
+#### Premios de estos artistas:
+
+![Premios](https://github.com/ainaramc/mencorain/blob/main/Captura%20de%20pantalla%202024-10-07%20141528.png)
 
 ## Biblografía
 Para más información sobre la bibliografia de este archivo : 
