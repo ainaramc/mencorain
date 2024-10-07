@@ -23,8 +23,6 @@ Este grupo, ya había lanzado un disco en 1997, pero en los 2000, sacaron a la v
 ahora, es decir, los convirtió en uno de los grupos más famosos de rock del mundo.
 Este disco se llama *hybrid theory*, y cuenta con éxitos como *In the End*.
 
-<img alt="<texto-alt>" src="https://drive.google.com/file/d/1JUiP8HkwUlruRGwfzP9vTl8NaLH5OanL/view?usp=sharing">
-
 ## La música en la actualidad:
 Hoy en estamos viviendo los años de máximo éxito de los sonidos urbanos y del reguetón y el foco ya no está tan centrado en Estados Unidos si no en zonas
 como latinoamérica.
@@ -34,13 +32,20 @@ como latinoamérica.
 + Hip-Hop / Rap
 - Música latina
 ### Artistas más escuchados:
-----------------------|--------------------------------|-------------------------------|
+
 |       Artistas      |          Género                |      Oyentes mensuales        |
 |----------|-------------------------------------------|-------------------------------|
 |Taylor Swift         |           Pop                  | 107,751,274 oyentes mensuales.|
-|---------------------|--------------------------------|-------------------------------|
-|The Weeknd           |           R&B                  | 102,488,433 oyentes mensuales.|
-|---------------------|--------------------------------|-------------------------------|
-||Bad Bunny  |     Música latina              |  77,732,729 oyentes mensuales.| 
-|---------------------|--------------------------------|-------------------------------|
+|The Weeknd           |          R&B                  | 102,488,433 oyentes mensuales.|
+|Bad Bunny           |     Música latina              |  77,732,729 oyentes mensuales.| 
 
+![foto artista más escuchada ] (https://github.com/ainaramc/mencorain/blob/main/PSX_20240109_214249.jpg)
+
+
+## Biblografía
+[1]: https://www.elindependiente.com/tendencias/2022/06/21/del-2002-al-2022-asi-han-cambiado-nuestros-gustos-musicales/#google_vignette           
+[2]: https://www.homovelamine.com/la-edad-de-oro-de-la-historia-de-la-musica/               
+[3]: https://nadaparadeclarar.wordpress.com/2009/12/30/la-musica-de-los-2000/
+[4]: https://musicalcedar.com/2024/01/08/top-10-artistas-mas-escuchados-en-spotify-en-2023/        
+[5]: https://elpais.com/cultura/2023-11-29/lo-mas-escuchado-en-spotify-2023-taylor-swift-destrona-a-bad-bunny-a-nivel-mundial-y-quevedo-triunfa-en-espana.html
+[6]: https://sympathyforthelawyer.com/blog/habitos-consumo-musica-2023/
