@@ -1,0 +1,34 @@
+li{
+  color:purple;
+}
+h1, h2{
+    color: blue;
+  }
+  #submit {
+    background-color: green;
+  }
+  span{
+    color: red;
+  }
+.size{
+  color: magenta;
+} input[type="email"]{
+  background-color: orange;
+}
+
+a[href$=".org"] {
+  color: magenta;
+}
+
+h2.bright{
+  color:cyan;
+}
+
+
+
+
+
+/* Selecciona todos los links que tienen un href terminado en '.org' color magenta. Revisar en w3schools el CSS attribute selector para averiguar cómo se indica */
+
+
+/* Selecciona los h2 con clase 'bright' (solo los h2 con clase 'bright', no otros de la misma clase y ponles color de texto cyan */
