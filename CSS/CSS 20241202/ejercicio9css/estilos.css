@@ -1,0 +1,10 @@
+
+body{
+   background-size: center;
+    background-image: url(imagen.avif);
+    background-repeat: no-repeat; 
+}
+body image{
+    width: 100vw;
+    height: 100vw;
+}    

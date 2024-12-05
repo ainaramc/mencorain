@@ -1,0 +1,15 @@
+h1{
+    font-family: serif;
+    text-align: center;
+}
+.nombre-sitio span{
+    color:#037bc0;
+}
+.hero{
+    height: 600px;
+    background-image: url(../img/principal.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: center;
+
+}

@@ -1,0 +1,5 @@
+Propiedades background-image y relacionadas.
+Para indicar ancho/alto hay que utilizar unidades relativas referentes al tamaño de la ventana en la que se visualizan:
+
+1 vw: 1% del viewport width -> 100vw: el viewport width
+1 vh: 1% del viewport height -> 100 vh: el viewport height
